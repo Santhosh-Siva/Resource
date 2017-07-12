@@ -1,0 +1,9 @@
+{
+  "name": "resource",
+  "version": "1.0.0",
+  "description": "this application is about maintianing a resource with in a compnay and it employee and calculating the company  resource marketing statergy",
+  "main": "index.js",
+  "repository": "https://github.com/Santhosh-Siva/Resource.git",
+  "author": "santhosh",
+  "license": "MIT"
+}
